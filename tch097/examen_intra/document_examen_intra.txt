@@ -1,0 +1,30 @@
+/*										*/
+/*				MEMBRES DE L'ÉQUIPE				*/
+/*										*/
+David Muradov
+
+/*										*/
+/*				SUJET DE L'EXAMEN				*/
+/*										*/
+
+Impacts environnementaux d'accomplir un projet comme celui-ci en équipe versus
+seul sous quelques scénarios différents.
+
+Il sera question de déterminer les impacts environnementaux qu'une personne peut
+emmettre pour accomplir un projet comme celui-ci. Pour cela, on assume que la
+personne doit se munir d'un ordinateur (nous assumerons l'ordinateur portable
+que j'utilise) et d'un cahier et d'un stylo pour marquer sur papier des notes, des
+observations, etc. La personne va devoir faire des recherches sur l'efficacité
+ou l'inefficacité d'effectuer un projet en équipe de n personnes (2 <= n <= 4) et
+faire d'autres recherches nécessaires pour accomplir le projet. L'utilisation de
+l'extension « Carbonalyzer » fait par « The Shift Project » sera d'une grande
+utilité pour déterminer les émissions de GES reliées aux recherches. Nous allons
+aussi faire une ACV simple pour l'ordinateur portable, le cahier de note et le
+stylo pour savoir combien de ressource est nécessaire pour mener le projet à bien.
+
+Pour les scénarios de comparaison, nous allons comparer les impacts causés par une
+personne telle que décrite dans le paragraphe précédent avec une équipe de n
+personnes qui utilisent un seul et unique ordinateur, un seul cahier de notes et
+un seul stylo pour « accélérer » le projet en espérant pouvoir causer moins
+d'impacts. Nous allons aussi comparer le travail seul avec une équipe de n
+personnes qui utilisent chacunes un ordinateur, un cahier et un stylo.
