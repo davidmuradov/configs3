@@ -1,0 +1,7 @@
+LABS EVALUES
+19 janvier
+2 fevrier
+9 fevrier
+
+gcc main.c -o main
+-lm (link math.h library)
